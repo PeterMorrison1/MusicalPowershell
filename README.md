@@ -6,6 +6,10 @@ I was inspired by this Gist [beep_mario_victory_theme.ps1](https://gist.github.c
 
 I used a [Space Station 13 Wiki](https://tgstation13.org/wiki/Songs) for music sheets as a reference, since it hosts simple songs that can be played in-game. Because of this, only songs that match this format will work.
 
+I used a table from MTU for the note to frequency matching:
+- https://pages.mtu.edu/~suits/notefreqs.html
+- https://pages.mtu.edu/~suits/PofMCopyRight.html
+
 # Run the Script
 
 To run the script, simply run the script file with no parameters passed in.
